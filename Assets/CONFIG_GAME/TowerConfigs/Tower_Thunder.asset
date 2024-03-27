@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e89887eb555f5b14d825f557bec60a27, type: 3}
+  m_Name: Tower_Thunder
+  m_EditorClassIdentifier: 
+  eTower: 8
+  sprIcon: {fileID: 21300008, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  objPrefab: {fileID: 1438254154912044, guid: 39414eb19815d2647806c21ad793e8e1, type: 3}
+  strTowerName: 'THUNDER TOWER '
+  strContent: Destroy the enemies of horrifying lightning rays.
+  LIST_DAMAGE: 14000000190000001e00000023000000
+  LIST_FIRE_RATE:
+  - 2.5
+  - 2
+  - 1.5
+  - 1.2
+  LIST_RANGE:
+  - 3
+  - 3.2
+  - 3.4
+  - 3.6
+  NUMBER_OF_BULLET: 01000000010000000100000001000000
+  iBasePriceToBuild: 7
+  bCanKillInfantry: 1
+  bCanKillAirforce: 1
+  iLevelToUnlock: 25
+  iPriceToUnlock_gem: 3000
+  iPriceToUnlock_dollar: 1.99
+  iHp: 0
+  fSpeedMove: 0

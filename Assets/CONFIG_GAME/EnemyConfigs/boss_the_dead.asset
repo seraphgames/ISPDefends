@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 483ca90eeab13e34e8db29a59d0a5b69, type: 3}
+  m_Name: boss_the_dead
+  m_EditorClassIdentifier: 
+  eEnemy: 47
+  objPrefab: {fileID: 0}
+  strName: BOSS
+  strContent: 
+  iHeart: 20
+  iConfig_Damage: 100
+  fConfig_RangeToAttack: 1
+  fConfig_AttackSpeed: 1
+  fConfig_MoveSpeed: 0.25
+  iConfig_BaseHp: 1000
+  iConfigCoin: 4
+  bIsInfantry: 1
+  bIsAirForece: 0
+  bIsBoss: 1

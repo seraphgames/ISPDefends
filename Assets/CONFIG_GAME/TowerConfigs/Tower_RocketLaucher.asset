@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e89887eb555f5b14d825f557bec60a27, type: 3}
+  m_Name: Tower_RocketLaucher
+  m_EditorClassIdentifier: 
+  eTower: 7
+  sprIcon: {fileID: 21300006, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  objPrefab: {fileID: 1438254154912044, guid: 81fd95a3a8924534f99a24ddd31c4aeb, type: 3}
+  strTowerName: 'ROCKET LAUNCHER '
+  strContent: The missiles are ready to destroy all enemies.
+  LIST_DAMAGE: 14000000190000000f00000011000000
+  LIST_FIRE_RATE:
+  - 3
+  - 3
+  - 2
+  - 2
+  LIST_RANGE:
+  - 3.3
+  - 3.5
+  - 3.8
+  - 4.2
+  NUMBER_OF_BULLET: 01000000010000000300000003000000
+  iBasePriceToBuild: 25
+  bCanKillInfantry: 1
+  bCanKillAirforce: 1
+  iLevelToUnlock: 23
+  iPriceToUnlock_gem: 3000
+  iPriceToUnlock_dollar: 1.99
+  iHp: 0
+  fSpeedMove: 0

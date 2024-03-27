@@ -1,0 +1,540 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1483538628838808}
+  m_IsPrefabAsset: 1
+--- !u!1 &1483538628838808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4954699668858800}
+  - component: {fileID: 114624949949215906}
+  m_Layer: 0
+  m_Name: THE_UPGRADE_SYSTEM
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4954699668858800
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1483538628838808}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114624949949215906
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1483538628838808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329a2aaa61f896748860d570ce337a7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LIST_UPGRADE_SYSTEM:
+  - eUpgradeSystem: 0
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 1
+    bActived: 0
+    fFactor: 1.1
+    sprIcon_White: {fileID: 21300000, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300036, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 1
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 1.1
+    sprIcon_White: {fileID: 21300002, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300038, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 2
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 1
+    bActived: 1
+    fFactor: 0.8
+    sprIcon_White: {fileID: 21300004, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300040, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 3
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 1.1
+    sprIcon_White: {fileID: 21300008, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300044, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 4
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 3
+    bActived: 0
+    fFactor: 1.2
+    sprIcon_White: {fileID: 21300006, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300042, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 5
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 0.85
+    sprIcon_White: {fileID: 21300010, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300046, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 6
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 3
+    bActived: 0
+    fFactor: 0.85
+    sprIcon_White: {fileID: 21300016, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300050, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 7
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 1.1
+    sprIcon_White: {fileID: 21300012, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300048, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 8
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 3
+    bActived: 0
+    fFactor: 1.15
+    sprIcon_White: {fileID: 21300014, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300050, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 9
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 3
+    bActived: 0
+    fFactor: 0.85
+    sprIcon_White: {fileID: 21300018, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300054, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 10
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 1.1
+    sprIcon_White: {fileID: 21300020, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300056, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 11
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 0
+    bActived: 0
+    fFactor: 1.15
+    sprIcon_White: {fileID: 21300022, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300058, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 12
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 1
+    bActived: 0
+    fFactor: 0.85
+    sprIcon_White: {fileID: 21300024, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300060, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 13
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 0.8
+    sprIcon_White: {fileID: 21300026, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300062, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 14
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 5
+    sprIcon_White: {fileID: 21300034, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300070, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 15
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 5
+    sprIcon_White: {fileID: 21300030, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300066, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  - eUpgradeSystem: 16
+    strName: ACB1
+    strContent: asdasdasdasdasdasd
+    iPriceStar: 2
+    bActived: 0
+    fFactor: 5
+    sprIcon_White: {fileID: 21300032, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+    sprIcon_Gray: {fileID: 21300068, guid: d5c37f79aa33805419878733c9742fc0, type: 3}
+  LIST_TOWER_DATA:
+  - eKindOfTower: 0
+    eTower: 0
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 1
+    eTower: 0
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 2
+    eTower: 0
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 3
+    eTower: 0
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 4
+    eTower: 4
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 5
+    eTower: 4
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 6
+    eTower: 4
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 7
+    eTower: 4
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 8
+    eTower: 1
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 9
+    eTower: 1
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 10
+    eTower: 1
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 11
+    eTower: 1
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 12
+    eTower: 2
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 13
+    eTower: 2
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 14
+    eTower: 2
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 15
+    eTower: 2
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 16
+    eTower: 3
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 17
+    eTower: 3
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 18
+    eTower: 3
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 19
+    eTower: 3
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 20
+    eTower: 5
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 21
+    eTower: 5
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 22
+    eTower: 5
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  - eKindOfTower: 23
+    eTower: 5
+    m_MyTowerData:
+      strID: 
+      iDamage: 0
+      fSpeedOfShotting: 0
+      fRange: 0
+      iTimeOfTranning: 0
+      iBlood: 0
+      iPriceToBuy: 0
+      iPriceToUpgrade: 0
+      iValueOfSell: 0
+      strName: 
+      strContent: 
+  LIST_TOWER_INFO:
+  - eTower: 0
+    strTowerName: SOLDIER TOWER
+    sprIcon: {fileID: 21300016, guid: e8fd4e806bba42b4d8f74318e3dbd106, type: 3}
+  - eTower: 1
+    strTowerName: MAGIC TOWER
+    sprIcon: {fileID: 21300018, guid: e8fd4e806bba42b4d8f74318e3dbd106, type: 3}
+  - eTower: 2
+    strTowerName: ARCHER TOWER
+    sprIcon: {fileID: 21300012, guid: e8fd4e806bba42b4d8f74318e3dbd106, type: 3}
+  - eTower: 3
+    strTowerName: STONE TOWER
+    sprIcon: {fileID: 21300014, guid: e8fd4e806bba42b4d8f74318e3dbd106, type: 3}

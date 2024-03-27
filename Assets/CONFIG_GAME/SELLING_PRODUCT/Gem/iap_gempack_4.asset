@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480c30ada9d91cd4caa95c7728e6b2fc, type: 3}
+  m_Name: iap_gempack_4
+  m_EditorClassIdentifier: 
+  _name: GEM PACK 4
+  _content: 
+  _valueToAdd: 7800
+  ePack: 3
+  _price: 14.99
+  _keyStoreID_Android: id_gem_pack_4
+  _keyStoreID_IOS: gem_pack_4

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76cf03c9ccba30e47a6545dc46cdb4f3, type: 3}
+  m_Name: GAME_INFO_IOS
+  m_EditorClassIdentifier: 
+  ePlatform: 1
+  NAME_GAME: 2D TD
+  strLinkMoreGame: www.your_link.com
+  strLinkLike: www.your_link.com
+  strFacebook: www.your_link.com
+  sprLogoPNG: {fileID: 1404028623067837608, guid: cf58833c0287a554f996049bdb5df99c,
+    type: 3}
+  strEmailReport: your_email@gmail.com
+  strEmailUser: your_email@gmail.com
+  strWebsite: www.your_link.com
+  strAdmob_IdPublisher: ca-app-pub-8037566411252072~2336528008
+  strAdmob_Id_Banner: ca-app-pub-8037566411252072/6512336176
+  strAdmob_Id_Interstitital: ca-app-pub-8037566411252072/6512336177
+  strAdmob_Id_VideoReward: ca-app-pub-8037566411252072/6512336178
+  strTestDevicesId: 
+  strUnityAdsID: 6521452

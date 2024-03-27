@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: da8e2d91661051f4095649cae7e44b35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Spides_0
+  - first:
+      213: 21300002
+    second: Spides_1
+  - first:
+      213: 21300004
+    second: Spides_2
+  - first:
+      213: 21300006
+    second: Spides_3
+  - first:
+      213: 21300008
+    second: Spides_4
+  - first:
+      213: 21300010
+    second: Spides_5
+  - first:
+      213: 21300012
+    second: Spides_6
+  - first:
+      213: 21300014
+    second: Spides_7
+  - first:
+      213: 21300016
+    second: Spides_8
+  - first:
+      213: 21300018
+    second: Spides_9
+  - first:
+      213: 21300020
+    second: Spides_10
+  - first:
+      213: 21300022
+    second: Spides_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spides_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 140
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48764452, y: 0.17303094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2adf29c1b9054ca9e918b903e1961
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 388
+        width: 146
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15721019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4fd7760eb11c4f86636c9355ad8d9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 388
+        width: 148
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4941563, y: 0.11116476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a6e1376281674b83479bd4ce50b75
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 264
+        width: 139
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49377793, y: 0.1689943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec5a0cb40791443aed45b14e4a46db
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 264
+        width: 145
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4880708, y: 0.1636556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c5f3a0049bd8847981ab329bc8aa0a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 264
+        width: 147
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45881498, y: 0.11116476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f84a490ec173d24582543481ff2c954
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 140
+        width: 140
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4969112, y: 0.17433298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ad82ef4246db4c8fe3199adeaf70f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 140
+        width: 146
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49703813, y: 0.16365542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9773fb3f0b3e46827adb6b433a0b4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 140
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4705823, y: 0.10719757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e355b1c59f5543a6cf934fd169126
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 137
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49368697, y: 0.16899404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71d542a22b8af41a291e37594ccc08
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 146
+        height: 81
+      alignment: 9
+      pivot: {x: 0.50888586, y: 0.14230002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9962b009565d54cb835b639c977521
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spides_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 7
+        width: 145
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46719402, y: 0.11519891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f31e07e2fcf5428d92061dce6f920
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f314419f398cf0b4f82d74f1be10338d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spides_6: 21300012
+      Spides_7: 21300014
+      Spides_0: 21300000
+      Spides_5: 21300010
+      Spides_8: 21300016
+      Spides_10: 21300020
+      Spides_2: 21300004
+      Spides_4: 21300008
+      Spides_1: 21300002
+      Spides_11: 21300022
+      Spides_3: 21300006
+      Spides_9: 21300018
+  spritePackingTag: enemy2
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

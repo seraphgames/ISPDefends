@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1360370518455450}
+  m_IsPrefabAsset: 1
+--- !u!1 &1360370518455450
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4723644298749602}
+  - component: {fileID: 114520646670145656}
+  m_Layer: 0
+  m_Name: THE_DATA_MANAGER
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4723644298749602
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1360370518455450}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114520646670145656
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1360370518455450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4e99aa2ee8c314c9127fbb43862f2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TOWER_CONFIG_CSV_FILE: {fileID: 4900000, guid: 4f2a75ddec26faf498f596f1632197d6,
+    type: 3}
+  TOWER_CONFIG: []
+  LIST_ICON_TOWER:
+  - eTower: 1
+    sprIcon: {fileID: 21300002, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 2
+    sprIcon: {fileID: 21300004, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 3
+    sprIcon: {fileID: 21300000, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 5
+    sprIcon: {fileID: 21300012, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 6
+    sprIcon: {fileID: 21300010, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 7
+    sprIcon: {fileID: 21300006, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  - eTower: 8
+    sprIcon: {fileID: 21300008, guid: cc7a78ca388a1b24e81428ed59a3d89d, type: 3}
+  ENEMY_CONFIG_CSV_FILE: {fileID: 4900000, guid: c75a6119aeb843b48a2ae7b876ebf43b,
+    type: 3}
+  ENEMY_CONFIG: []
+  SHOP_CONFIG_CSV_FILE: {fileID: 4900000, guid: 298fea5d6c2497045927f7703a4dd9c8,
+    type: 3}
+  UPGRADE_CONFIG_CSV: {fileID: 4900000, guid: 73657efdd58bbc44ea8ca8bf3745419d, type: 3}
+  UPGRADE_CONFIG: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02de3401510a2da488ccbd29f7ad2b95, type: 3}
+  m_Name: Reinforcement_MoreTimelife50Percent
+  m_EditorClassIdentifier: 
+  eUpgrade: 5
+  eFactorType: 0
+  strName: 'REINFORCEMENT '
+  strContent: 'Increase 50% in survival time '
+  fValueConfig: 30
+  fValueDefaul: 0
+  strUnit: 
+  eStarType: 1
+  iStarPrice: 5

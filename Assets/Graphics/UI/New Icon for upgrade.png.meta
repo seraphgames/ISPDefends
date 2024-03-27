@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 0f29df11ec728de40b86f617f944979a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: New Icon for upgrade_0
+  - first:
+      213: 21300002
+    second: New Icon for upgrade_1
+  - first:
+      213: 21300004
+    second: New Icon for upgrade_2
+  - first:
+      213: 21300006
+    second: New Icon for upgrade_3
+  - first:
+      213: 21300008
+    second: New Icon for upgrade_4
+  - first:
+      213: 21300010
+    second: New Icon for upgrade_5
+  - first:
+      213: 21300012
+    second: New Icon for upgrade_6
+  - first:
+      213: 21300014
+    second: New Icon for upgrade_7
+  - first:
+      213: 21300016
+    second: New Icon for upgrade_8
+  - first:
+      213: 21300018
+    second: New Icon for upgrade_9
+  - first:
+      213: 21300020
+    second: New Icon for upgrade_10
+  - first:
+      213: 21300022
+    second: New Icon for upgrade_11
+  - first:
+      213: 21300024
+    second: New Icon for upgrade_12
+  - first:
+      213: 21300026
+    second: New Icon for upgrade_13
+  - first:
+      213: 21300028
+    second: New Icon for upgrade_14
+  - first:
+      213: 21300030
+    second: New Icon for upgrade_15
+  - first:
+      213: 21300032
+    second: New Icon for upgrade_16
+  - first:
+      213: 21300034
+    second: New Icon for upgrade_17
+  - first:
+      213: 21300036
+    second: New Icon for upgrade_18
+  - first:
+      213: 21300038
+    second: New Icon for upgrade_19
+  - first:
+      213: 21300040
+    second: New Icon for upgrade_20
+  - first:
+      213: 21300042
+    second: New Icon for upgrade_21
+  - first:
+      213: 21300044
+    second: New Icon for upgrade_22
+  - first:
+      213: 21300046
+    second: New Icon for upgrade_23
+  - first:
+      213: 21300048
+    second: New Icon for upgrade_24
+  - first:
+      213: 21300050
+    second: New Icon for upgrade_25
+  - first:
+      213: 21300052
+    second: New Icon for upgrade_26
+  - first:
+      213: 21300054
+    second: New Icon for upgrade_27
+  - first:
+      213: 21300056
+    second: New Icon for upgrade_28
+  - first:
+      213: 21300058
+    second: New Icon for upgrade_29
+  - first:
+      213: 21300060
+    second: New Icon for upgrade_30
+  - first:
+      213: 21300062
+    second: New Icon for upgrade_31
+  - first:
+      213: 21300064
+    second: New Icon for upgrade_32
+  - first:
+      213: 21300066
+    second: New Icon for upgrade_33
+  - first:
+      213: 21300068
+    second: New Icon for upgrade_34
+  - first:
+      213: 21300070
+    second: New Icon for upgrade_35
+  - first:
+      213: 21300072
+    second: New Icon for upgrade_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Icon for upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2040
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec880ed637bf63c4bb3712803c892714
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84a052171b40a4986b98495dc45ccb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c2092e103b2847b4c857fdc11bbbc
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1776
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750ecf31f698f145843bf5635cbb2bf
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099df7935be8025488086877abd8d43f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc429ccbdf0164680f5e08c38633ff
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25af8ad26399604ea342a331b618397
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1776
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bbaaf0a9b2e646bcddc9f6b18347d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6119c829809aa704eb88de583c8f80b2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9879719388bf064b82a60297a23d540
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1472
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1faba8ccd6c1e49992154a5808aa97
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea8f12e840f5f438c9dfe93032eca3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f19708480a2214ca1aa0d625570a96
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128df286491be1c4dbab4624415395b2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_14
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1472
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63128a2f958c8f842ac449e1ec43a79a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e15f5cb79ab23479720de21198b658
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1168
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad382006ea6624096bb35aa083cec8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1168
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6a207919b8bf4e959ce71ff0e7960
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1168
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01a420a392e3d49bf9abb4ba2b5585
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1184
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990f27d4dfa9724ebb899088424cbf5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_20
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1168
+        width: 260
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d9e406f3b2b084e90f65ace81ed67b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 864
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f202b076ad6c0c42a143d12609c3c8e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 864
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ecacf8f018c643909cfaf3540a4f5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 864
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d00331fff39e46bc541e1d6f2b522
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef180e3fb68a69945a51fbd08ce86c48
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 876
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5270b67ec8a22a543b7fe204f9ea08fa
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80339de509ef5c1449fd22cd2df5a693
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_27
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7da69d59d8b6247a03277f851d1ab5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892e93d035d9b643b2a1b2b79a39ec1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ccb39d9d22a44e9bc4561f8e167b9
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a6bed543c4ca4180093643e3a57bf
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950407b2b7995f142808dc7ec579e453
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_32
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6ac6fd1bd19e4ca6e8f07d15f68d0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 592
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659af40eb659aac46b8c3b560ffdaf05
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_34
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9422ba4d97be8418d85ff219fa61e6
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedba7f529e4c3499adb3fa0806c28c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Icon for upgrade_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 62
+        width: 487
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447052a793382e743a869480cf1ab213
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eed94e3a91d2bb64cad5d02dc517d710
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      New Icon for upgrade_26: 21300052
+      New Icon for upgrade_16: 21300032
+      New Icon for upgrade_13: 21300026
+      New Icon for upgrade_31: 21300062
+      New Icon for upgrade_27: 21300054
+      New Icon for upgrade_14: 21300028
+      New Icon for upgrade_25: 21300050
+      New Icon for upgrade_35: 21300070
+      New Icon for upgrade_7: 21300014
+      New Icon for upgrade_33: 21300066
+      New Icon for upgrade_8: 21300016
+      New Icon for upgrade_21: 21300042
+      New Icon for upgrade_34: 21300068
+      New Icon for upgrade_12: 21300024
+      New Icon for upgrade_10: 21300020
+      New Icon for upgrade_15: 21300030
+      New Icon for upgrade_29: 21300058
+      New Icon for upgrade_0: 21300000
+      New Icon for upgrade_24: 21300048
+      New Icon for upgrade_4: 21300008
+      New Icon for upgrade_30: 21300060
+      New Icon for upgrade_17: 21300034
+      New Icon for upgrade_36: 21300072
+      New Icon for upgrade_28: 21300056
+      New Icon for upgrade_32: 21300064
+      New Icon for upgrade_6: 21300012
+      New Icon for upgrade_19: 21300038
+      New Icon for upgrade_23: 21300046
+      New Icon for upgrade_22: 21300044
+      New Icon for upgrade_20: 21300040
+      New Icon for upgrade_3: 21300006
+      New Icon for upgrade_5: 21300010
+      New Icon for upgrade_11: 21300022
+      New Icon for upgrade_9: 21300018
+      New Icon for upgrade_18: 21300036
+      New Icon for upgrade_1: 21300002
+      New Icon for upgrade_2: 21300004
+  spritePackingTag: iconupgrade
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 07c38e293ae2caf4bbf456914b39dfc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wofls_0
+  - first:
+      213: 21300002
+    second: Wofls_1
+  - first:
+      213: 21300004
+    second: Wofls_2
+  - first:
+      213: 21300006
+    second: Wofls_3
+  - first:
+      213: 21300008
+    second: Wofls_4
+  - first:
+      213: 21300010
+    second: Wofls_5
+  - first:
+      213: 21300012
+    second: Wofls_6
+  - first:
+      213: 21300014
+    second: Wofls_7
+  - first:
+      213: 21300016
+    second: Wofls_8
+  - first:
+      213: 21300018
+    second: Wofls_9
+  - first:
+      213: 21300020
+    second: Wofls_10
+  - first:
+      213: 21300022
+    second: Wofls_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wofls_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 440
+        width: 95
+        height: 69
+      alignment: 9
+      pivot: {x: 0.55215436, y: 0.14894436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df209e1ab06c1af42a65b60fc8a474de
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 440
+        width: 86
+        height: 67
+      alignment: 9
+      pivot: {x: 0.551211, y: 0.15900706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedf8830b7b9094583d2193ac025ccf
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 363
+        width: 95
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5492569, y: 0.14378178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056277c6ff238c44a6ed3e0c66f0ef2
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 363
+        width: 86
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5416089, y: 0.13435705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784be4449587ae04fb4a7fe9042aa86a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 287
+        width: 95
+        height: 68
+      alignment: 9
+      pivot: {x: 0.55505186, y: 0.13568608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3656dd77a7e048bc2ce3bb00deb43
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 287
+        width: 86
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5480102, y: 0.124646276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d06dbf6457bbc4197437f637218ca2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 99
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5333647, y: 0.14495517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e51003cf229814ab0f656d08f17643
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 213
+        width: 97
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49432468, y: 0.13298751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09a1159702093438bbb618eb519406
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 114
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5280877, y: 0.13973393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f314da1f85284eac858641e6d3ff9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 114
+        width: 97
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49432468, y: 0.1384652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d178c1696d6c114ab1caa4b3d575751
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5224701, y: 0.13568583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3771b60332544e938d5fe5fa87e73
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wofls_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 97
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4829737, y: 0.13298723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa7962c46f6434891f437a450530ad
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e71880387a0008840b2bae189b8db589
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wofls_5: 21300010
+      Wofls_6: 21300012
+      Wofls_0: 21300000
+      Wofls_10: 21300020
+      Wofls_1: 21300002
+      Wofls_2: 21300004
+      Wofls_3: 21300006
+      Wofls_4: 21300008
+      Wofls_7: 21300014
+      Wofls_11: 21300022
+      Wofls_9: 21300018
+      Wofls_8: 21300016
+  spritePackingTag: enemy2
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
